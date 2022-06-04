@@ -46,7 +46,6 @@ ensure esx_customui
 ou si c'est dans scripts mettez 
 
 ressources puis [script] et [Esx] puis déposer le Ici 
-
 # ESX 
 ensure esx_customui 
 
